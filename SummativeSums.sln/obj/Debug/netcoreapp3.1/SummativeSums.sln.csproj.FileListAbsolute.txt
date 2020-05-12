@@ -1,0 +1,12 @@
+C:\Users\flynt\source\repos\SummativeSums.sln\bin\Debug\netcoreapp3.1\SummativeSums.sln.exe
+C:\Users\flynt\source\repos\SummativeSums.sln\bin\Debug\netcoreapp3.1\SummativeSums.sln.deps.json
+C:\Users\flynt\source\repos\SummativeSums.sln\bin\Debug\netcoreapp3.1\SummativeSums.sln.runtimeconfig.json
+C:\Users\flynt\source\repos\SummativeSums.sln\bin\Debug\netcoreapp3.1\SummativeSums.sln.runtimeconfig.dev.json
+C:\Users\flynt\source\repos\SummativeSums.sln\bin\Debug\netcoreapp3.1\SummativeSums.sln.dll
+C:\Users\flynt\source\repos\SummativeSums.sln\bin\Debug\netcoreapp3.1\SummativeSums.sln.pdb
+C:\Users\flynt\source\repos\SummativeSums.sln\obj\Debug\netcoreapp3.1\SummativeSums.sln.csproj.CoreCompileInputs.cache
+C:\Users\flynt\source\repos\SummativeSums.sln\obj\Debug\netcoreapp3.1\SummativeSums.sln.AssemblyInfoInputs.cache
+C:\Users\flynt\source\repos\SummativeSums.sln\obj\Debug\netcoreapp3.1\SummativeSums.sln.AssemblyInfo.cs
+C:\Users\flynt\source\repos\SummativeSums.sln\obj\Debug\netcoreapp3.1\SummativeSums.sln.dll
+C:\Users\flynt\source\repos\SummativeSums.sln\obj\Debug\netcoreapp3.1\SummativeSums.sln.pdb
+C:\Users\flynt\source\repos\SummativeSums.sln\obj\Debug\netcoreapp3.1\SummativeSums.sln.genruntimeconfig.cache

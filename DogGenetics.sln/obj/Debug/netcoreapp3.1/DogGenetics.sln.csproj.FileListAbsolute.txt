@@ -1,0 +1,13 @@
+C:\Users\flynt\source\repos\DogGenetics.sln\bin\Debug\netcoreapp3.1\DogGenetics.sln.exe
+C:\Users\flynt\source\repos\DogGenetics.sln\bin\Debug\netcoreapp3.1\DogGenetics.sln.deps.json
+C:\Users\flynt\source\repos\DogGenetics.sln\bin\Debug\netcoreapp3.1\DogGenetics.sln.runtimeconfig.json
+C:\Users\flynt\source\repos\DogGenetics.sln\bin\Debug\netcoreapp3.1\DogGenetics.sln.runtimeconfig.dev.json
+C:\Users\flynt\source\repos\DogGenetics.sln\bin\Debug\netcoreapp3.1\DogGenetics.sln.dll
+C:\Users\flynt\source\repos\DogGenetics.sln\bin\Debug\netcoreapp3.1\DogGenetics.sln.pdb
+C:\Users\flynt\source\repos\DogGenetics.sln\obj\Debug\netcoreapp3.1\DogGenetics.sln.csprojAssemblyReference.cache
+C:\Users\flynt\source\repos\DogGenetics.sln\obj\Debug\netcoreapp3.1\DogGenetics.sln.csproj.CoreCompileInputs.cache
+C:\Users\flynt\source\repos\DogGenetics.sln\obj\Debug\netcoreapp3.1\DogGenetics.sln.AssemblyInfoInputs.cache
+C:\Users\flynt\source\repos\DogGenetics.sln\obj\Debug\netcoreapp3.1\DogGenetics.sln.AssemblyInfo.cs
+C:\Users\flynt\source\repos\DogGenetics.sln\obj\Debug\netcoreapp3.1\DogGenetics.sln.dll
+C:\Users\flynt\source\repos\DogGenetics.sln\obj\Debug\netcoreapp3.1\DogGenetics.sln.pdb
+C:\Users\flynt\source\repos\DogGenetics.sln\obj\Debug\netcoreapp3.1\DogGenetics.sln.genruntimeconfig.cache

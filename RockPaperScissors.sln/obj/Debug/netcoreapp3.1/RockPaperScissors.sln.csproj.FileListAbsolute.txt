@@ -1,0 +1,13 @@
+C:\Users\flynt\source\repos\RockPaperScissors.sln\bin\Debug\netcoreapp3.1\RockPaperScissors.sln.exe
+C:\Users\flynt\source\repos\RockPaperScissors.sln\bin\Debug\netcoreapp3.1\RockPaperScissors.sln.deps.json
+C:\Users\flynt\source\repos\RockPaperScissors.sln\bin\Debug\netcoreapp3.1\RockPaperScissors.sln.runtimeconfig.json
+C:\Users\flynt\source\repos\RockPaperScissors.sln\bin\Debug\netcoreapp3.1\RockPaperScissors.sln.runtimeconfig.dev.json
+C:\Users\flynt\source\repos\RockPaperScissors.sln\bin\Debug\netcoreapp3.1\RockPaperScissors.sln.dll
+C:\Users\flynt\source\repos\RockPaperScissors.sln\bin\Debug\netcoreapp3.1\RockPaperScissors.sln.pdb
+C:\Users\flynt\source\repos\RockPaperScissors.sln\obj\Debug\netcoreapp3.1\RockPaperScissors.sln.csprojAssemblyReference.cache
+C:\Users\flynt\source\repos\RockPaperScissors.sln\obj\Debug\netcoreapp3.1\RockPaperScissors.sln.csproj.CoreCompileInputs.cache
+C:\Users\flynt\source\repos\RockPaperScissors.sln\obj\Debug\netcoreapp3.1\RockPaperScissors.sln.AssemblyInfoInputs.cache
+C:\Users\flynt\source\repos\RockPaperScissors.sln\obj\Debug\netcoreapp3.1\RockPaperScissors.sln.AssemblyInfo.cs
+C:\Users\flynt\source\repos\RockPaperScissors.sln\obj\Debug\netcoreapp3.1\RockPaperScissors.sln.dll
+C:\Users\flynt\source\repos\RockPaperScissors.sln\obj\Debug\netcoreapp3.1\RockPaperScissors.sln.pdb
+C:\Users\flynt\source\repos\RockPaperScissors.sln\obj\Debug\netcoreapp3.1\RockPaperScissors.sln.genruntimeconfig.cache

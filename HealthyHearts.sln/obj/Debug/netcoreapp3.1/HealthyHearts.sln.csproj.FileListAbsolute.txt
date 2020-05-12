@@ -1,0 +1,12 @@
+C:\Users\flynt\source\repos\HealthyHearts.sln\bin\Debug\netcoreapp3.1\HealthyHearts.sln.exe
+C:\Users\flynt\source\repos\HealthyHearts.sln\bin\Debug\netcoreapp3.1\HealthyHearts.sln.deps.json
+C:\Users\flynt\source\repos\HealthyHearts.sln\bin\Debug\netcoreapp3.1\HealthyHearts.sln.runtimeconfig.json
+C:\Users\flynt\source\repos\HealthyHearts.sln\bin\Debug\netcoreapp3.1\HealthyHearts.sln.runtimeconfig.dev.json
+C:\Users\flynt\source\repos\HealthyHearts.sln\bin\Debug\netcoreapp3.1\HealthyHearts.sln.dll
+C:\Users\flynt\source\repos\HealthyHearts.sln\bin\Debug\netcoreapp3.1\HealthyHearts.sln.pdb
+C:\Users\flynt\source\repos\HealthyHearts.sln\obj\Debug\netcoreapp3.1\HealthyHearts.sln.csproj.CoreCompileInputs.cache
+C:\Users\flynt\source\repos\HealthyHearts.sln\obj\Debug\netcoreapp3.1\HealthyHearts.sln.AssemblyInfoInputs.cache
+C:\Users\flynt\source\repos\HealthyHearts.sln\obj\Debug\netcoreapp3.1\HealthyHearts.sln.AssemblyInfo.cs
+C:\Users\flynt\source\repos\HealthyHearts.sln\obj\Debug\netcoreapp3.1\HealthyHearts.sln.dll
+C:\Users\flynt\source\repos\HealthyHearts.sln\obj\Debug\netcoreapp3.1\HealthyHearts.sln.pdb
+C:\Users\flynt\source\repos\HealthyHearts.sln\obj\Debug\netcoreapp3.1\HealthyHearts.sln.genruntimeconfig.cache
